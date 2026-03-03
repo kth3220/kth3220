@@ -1,4 +1,4 @@
-# Kim-Taehee
+# kth3220
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a97ff,100:001dfa&height=180&text=Taehee's%20GitHub&animation=&fontColor=ffffff&fontSize=50" />
     </div>
