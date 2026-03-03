@@ -68,9 +68,6 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
   </a>
 
-  <br/><br/>
-  <p>📌 언제든지 협업과 새로운 기회를 환영합니다.</p>
-</div>
 
 <br/>
 
